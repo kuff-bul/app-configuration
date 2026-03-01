@@ -1,1 +1,5 @@
-
+build:
+  id: 10101010
+  version: 1000.2.3
+  name: "Pro-Git-Production-Build"
+  type: "GIT PRODUCTION BUILD"
